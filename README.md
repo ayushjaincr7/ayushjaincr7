@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm Ayush Jain, a passionate developer and AI enth
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-21C5BB?style=flat&logo=apachespark&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-007ACC?style=flat&logo=openai&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-FF6F00?style=flat&logo=numpy&logoColor=white)
 
 ## 📊 GitHub Stats
 
